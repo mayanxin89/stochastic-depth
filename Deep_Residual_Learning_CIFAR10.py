@@ -21,7 +21,7 @@ import theano.tensor as T
 import lasagne
 
 # for the larger networks (n>=9), we need to adjust pythons recursion limit
-sys.setrecursionlimit(10000)
+# sys.setrecursionlimit(10000)
 
 # ##################### Load data from CIFAR-10 dataset #######################
 # this code assumes the cifar dataset from 'https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
