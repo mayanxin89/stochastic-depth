@@ -2,7 +2,7 @@
 deep residual network with stochastic depth
 
 
-Python (Lasagne + Theano library) code for CIFAR-10 classification. Based on the following references:
+Python (Lasagne + Theano library) code for CIFAR-10 classification, based on the following:
 
 * [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
