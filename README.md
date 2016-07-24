@@ -1,6 +1,7 @@
-# stochastic-depth
+# stochastic-depth: "deep residual network with stochastic depth". 
 
-Deep residual network with stochastic depth. Writing Python (Lasagne + Theano library) code for CIFAR-10 classification, based on:
+
+Writing Python (Lasagne + Theano library) code for CIFAR-10 classification, based on:
 
 * The 2015 paper: [Deep Residual Learning for Image Recognition](https://arxiv.org/abs/1512.03385)
 
